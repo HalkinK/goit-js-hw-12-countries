@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+.js-input {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-color: #00ffea;
+  border-radius: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  width: 500px;
+  height: 50px;
+  font-size: 25px;
+  font-weight: 400;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.img {
+  border: solid 1px black;
+  width: 100%;
+  height: auto;
+}
+
+.js-country-container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 500px;
+  height: auto;
+}
+
+.country-items {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.languages-title {
+  font-weight: 700;
+}
+
+.countries-list {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.countries-list-item {
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=main.css.map */
